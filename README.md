@@ -1,6 +1,6 @@
 
 
-# Ноутбуки по Python, машинному обучению и нейронным сетям
+# Ноутбуки и ссылки на материалы по Python, машинному обучению и нейронным сетям
  
  <a href="https://drive.google.com/drive/folders/1Osoz0Q257b0QWkIlmLz3SiCVna5uawcG?usp=sharing" target="_blank">
   <img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Google Drive" style="width: 150px"/>
