@@ -111,8 +111,8 @@
     <td><a href="https://colab.research.google.com/drive/1OyMejAirERaRJ11BKtmFKe7BMXfiqiBL"><img src="img/colab.svg" alt="Open In Colab"></a> </td>
   </tr>
   <tr>
-    <td>Docker Compose</td>
-    <td>Запуск библиотек для инференса LLM, в том числе библиотек с веб-интерфейсами (Llama.cpp, Ollama, OpenWebUI, AnythingLLM) через Docker и Docker Compose, отправка API запросов к моделям Ollama.<br>Установка двайверов NVIDIA + CUDA + Pytorch + Docker + NVIDIA Container Tollkit на арендованном сервере + деплой чат бота с веб-интерфейсом на основе образов Ollama и OpenWebUI через Docker Compose на облачный сервер</td>
+    <td>Docker Compose, LLM</td>
+    <td>Запуск библиотек для инференса LLM через Docker и Docker Compose, в том числе библиотек с веб-интерфейсами (Llama.cpp, Ollama, OpenWebUI, AnythingLLM), отправка API запросов в библиотеках llama.cpp и Ollama.<br>Установка двайверов NVIDIA + CUDA + Pytorch + Docker + NVIDIA Container Tollkit на арендованном сервере + деплой чат бота с веб-интерфейсом на основе образов Ollama и OpenWebUI через Docker Compose на облачный сервер</td>
     <td><a href="https://colab.research.google.com/drive/1P3rB1s_bvUe7Zf3VE_IOTInH67N4i5b9"><img src="img/colab.svg" alt="Open In Colab"></a> </td>
   </tr>
 
