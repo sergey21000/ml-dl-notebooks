@@ -265,7 +265,7 @@
   </tr>
   <tr>
     <td>Квантизация</td>
-    <td>Примеры использования Различных фреймворков для квантизации моделей и ускорения инференса, преобразование моделей в форматы для инференса - ONNX, GGUF, OpenVINO</td>
+    <td>Примеры использования различных фреймворков для квантизации моделей и ускорения инференса, преобразование моделей в форматы для инференса - ONNX, OpenVINO, квантизация моделей в формат GGUF через llama.cpp и их инференс через llama.cpp и llama-cpp-python</td>
     <td><a href="https://colab.research.google.com/drive/1P-1eqTgYSYH1tJ7YaO0K_jOzujkcR3hd"><img src="img/colab.svg" alt="Open In Colab"></a> </td>
   </tr>
   <tr>
