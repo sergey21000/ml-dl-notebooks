@@ -320,7 +320,7 @@
   </tr>
   <tr>
     <td>LLM Gradio Chatbot, Telegram Bot</td>
-    <td>Написания веб-приложения чат-бота на фреймворке Gradio, создание на его основе докер контейнера, а так же написание Телеграм бота, который преобразет речь в текст (Speech-to-Text), генерирует ответ, и преобразует его обратно в речь(Text-to-Speech)</td>
+    <td>Написания чат-ботов на основе llama-cpp-python и transformers с web-интерфейсом на Gradio, создание докер контейнера для чат-бота, а так же написание Телеграм бота, который преобразет речь в текст (Speech-to-Text), генерирует ответ, и преобразует его обратно в речь(Text-to-Speech)</td>
     <td><a href="https://colab.research.google.com/drive/1WoYWS0GNxUZvp0nWljwfMFwkm6GwiTzi"><img src="img/colab.svg" alt="Open In Colab"></a> </td>
   </tr>
   <tr>
