@@ -309,13 +309,13 @@
     <td><a href="https://colab.research.google.com/drive/1OuoSYfpfoQM4xmw4j0sMq0Xz-LmJ4N8w"><img src="img/colab.svg" alt="Open In Colab"></a> </td>
   </tr>
   <tr>
-    <td>LLM Fune Tuning</td>
-    <td>Демонстрация обучения LLM на примере маленькой модели с платформы Hugging Face</td>
+    <td>LLM Fine Tuning, LoRA, Datasets</td>
+    <td>Демонстрация дообучения LLM на примере маленькой модели с платформы Hugging Face, примеры создания и обратботки датасетов для обучения через библиотеку transformers</td>
     <td><a href="https://colab.research.google.com/drive/1PDr-NFZ_P4Ex3oxP3PwYv_IgorOhYCQT"><img src="img/colab.svg" alt="Open In Colab"></a> </td>
   </tr>
   <tr>
-    <td>LLM Fine Tuning</td>
-    <td>Пример дообучения языковой модели с платформы Hugging Face на датасете вопросов и ответов с медицинских форумов с применением квантования из библиотеки bitsandbytes и метода LoRA.<br>Ноутбук почти такой же, как предыдущий, только здесь модель побольше</td>
+    <td>LLM Fine-Tuning, LoRA</td>
+    <td>Пример дообучения языковой модели с платформы Hugging Face на датасете вопросов и ответов с медицинских форумов с применением квантования из библиотеки bitsandbytes и метода LoRA (QLoRA).</td>
     <td><a href="https://colab.research.google.com/drive/1OzQ9tNzBQPaSFaYaPGV9ocvEgisOTx9S"><img src="img/colab.svg" alt="Open In Colab"></a> </td>
   </tr>
   <tr>
