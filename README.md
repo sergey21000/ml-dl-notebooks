@@ -1,5 +1,4 @@
 
-
 # Ноутбуки и ссылки на материалы по Python, машинному обучению и нейронным сетям
  
  <a href="https://drive.google.com/drive/folders/1Osoz0Q257b0QWkIlmLz3SiCVna5uawcG?usp=sharing" target="_blank">
@@ -315,7 +314,7 @@
   </tr>
   <tr>
     <td>LLM Fine-Tuning, LoRA</td>
-    <td>Пример дообучения языковой модели с платформы Hugging Face на датасете вопросов и ответов с медицинских форумов с применением квантования из библиотеки bitsandbytes и метода LoRA (QLoRA).</td>
+    <td>Пример дообучения языковой модели с платформы Hugging Face на датасете вопросов и ответов с медицинских форумов с применением квантования из библиотеки bitsandbytes и метода LoRA (QLoRA)</td>
     <td><a href="https://colab.research.google.com/drive/1OzQ9tNzBQPaSFaYaPGV9ocvEgisOTx9S"><img src="img/colab.svg" alt="Open In Colab"></a> </td>
   </tr>
   <tr>
@@ -325,7 +324,7 @@
   </tr>
   <tr>
     <td>LLM Gradio Chatbot</td>
-    <td>Чат-бот на основе библиотеки Llama-cpp-python и с веб-интерфейсом на фреймворке Gradio, деплой бота на облачный сервер, подключение к нему сервера NGINX, аренда своего домена (сайта) и получение SSL сертификата для работы сайта по протоколу HTTPS</td>
+    <td>Чат-бот на основе библиотеки llama-cpp-python и с веб-интерфейсом на фреймворке Gradio, деплой бота на облачный сервер, подключение к нему сервера NGINX, аренда своего домена (сайта) и получение SSL сертификата для работы сайта по протоколу HTTPS</td>
     <td><a href="https://colab.research.google.com/drive/1P5wx4t_wVeRnZ5HBXZuj9Iczbj5N233v"><img src="img/colab.svg" alt="Open In Colab"></a> </td>
   </tr>
   <tr>
@@ -406,11 +405,4 @@
   </tr>
   
 </table>
-
-
-
-
-
-
-
 
