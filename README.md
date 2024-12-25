@@ -395,7 +395,7 @@
   </tr>
   <tr>
     <td>Классификация аудио</td>
-    <td>Пример обучения сверточной нейронной сети задаче классификации аудио на 10 классов</td>
+    <td>Пример обучения сверточной нейронной сети задаче классификации аудио на 10 классов, логирование процесса обучения через Wandb</td>
     <td><a href="https://colab.research.google.com/drive/1OxEUaHq0BrjnLVZuq4mAwiASnmC3bu6q"><img src="img/colab.svg" alt="Open In Colab"></a> </td>
   </tr>
   <tr>
