@@ -315,7 +315,7 @@
   <tr>
     <td>LLM Fine-Tuning, LoRA</td>
     <td>Пример дообучения языковой модели с платформы Hugging Face на датасете вопросов и ответов с медицинских форумов с применением квантования из библиотеки bitsandbytes и метода LoRA (QLoRA)</td>
-    <td><a href="https://colab.research.google.com/drive/1OzQ9tNzBQPaSFaYaPGV9ocvEgisOTx9S"><img src="img/colab.svg" alt="Open In Colab"></a> </td>
+    <td><a href="https://colab.research.google.com/drive/1HyEbKxgoL8DsgHlmZa8cJleCbK-bjjVr"><img src="img/colab.svg" alt="Open In Colab"></a> </td>
   </tr>
   <tr>
     <td>LLM Fine-Tuning Qwen2.5, LoRA</td>
