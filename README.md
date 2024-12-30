@@ -318,6 +318,11 @@
     <td><a href="https://colab.research.google.com/drive/1OzQ9tNzBQPaSFaYaPGV9ocvEgisOTx9S"><img src="img/colab.svg" alt="Open In Colab"></a> </td>
   </tr>
   <tr>
+    <td>LLM Fine-Tuning Qwen2.5, LoRA</td>
+    <td>Пример дообучения языковой модели Qwen2.5 на датасете новостей с помощью библиотеки transformers и с применением метода LoRA, логгирование процесса обучения через wandb, сохранение/объединение модели, конвертация в формат GGUF, отправка всех вариантов моделей на Hugging Face</td>
+    <td><a href="https://colab.research.google.com/drive/138J66Tc5MirFlQWtMd-tH2-XMvISWKuK"><img src="img/colab.svg" alt="Open In Colab"></a> </td>
+  </tr>
+  <tr>
     <td>LLM Gradio Chatbot, Telegram Bot</td>
     <td>Написания чат-ботов на основе llama-cpp-python и transformers с web-интерфейсом на Gradio, создание докер контейнера для чат-бота, а так же написание Телеграм бота, который преобразет речь в текст (Speech-to-Text), генерирует ответ, и преобразует его обратно в речь(Text-to-Speech)</td>
     <td><a href="https://colab.research.google.com/drive/1WoYWS0GNxUZvp0nWljwfMFwkm6GwiTzi"><img src="img/colab.svg" alt="Open In Colab"></a> </td>
