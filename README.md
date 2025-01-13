@@ -159,8 +159,8 @@
     <td><a href="https://colab.research.google.com/drive/1P2ZsuBtbdd6wIizzwr6KWQRCMMnPbgvp"><img src="img/colab.svg" alt="Open In Colab"></a> </td>
   </tr>
   <tr>
-    <td>KNN</td>
-    <td>Как работает алгоритм KNN</td>
+    <td>KNN, ANN</td>
+    <td>Обучение и разбор алгоритма KNN, применение алгоритма ANN на примере поиска похожих слов</td>
     <td><a href="https://colab.research.google.com/drive/1OyiCf3tpLhHlUACm4RfjAXJk5WAbhF7b"><img src="img/colab.svg" alt="Open In Colab"></a> </td>
   </tr>
   <tr>
