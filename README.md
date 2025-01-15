@@ -389,6 +389,11 @@
     <td><a href="https://colab.research.google.com/drive/1PDF_eCz9ViVDMz3JGPfiCu3xuGGeRT7T"><img src="img/colab.svg" alt="Open In Colab"></a> </td>
   </tr>
   <tr>
+    <td>VLM, OCR</td>
+    <td>Применение VLM моделей на задаче генерации описания к изображению, применение OCR моделей на задаче распознавания текста на изображении</td>
+    <td><a href="https://colab.research.google.com/drive/1l_uU8m5IFeuFkfm08dXYN6LqDMVVgG8q"><img src="img/colab.svg" alt="Open In Colab"></a> </td>
+  </tr>
+  <tr>
     <td>Adversarial attacks</td>
     <td>Как произвести атаку на нейронную сеть на примере механизма Fast Gradient Sign Attack (FGSM)</td>
     <td><a href="https://colab.research.google.com/drive/1Ouejq5pCV4Y7taF46Vu_mIk2J8Pcg50H"><img src="img/colab.svg" alt="Open In Colab"></a> </td>
