@@ -390,7 +390,7 @@
   </tr>
   <tr>
     <td>VLM, OCR</td>
-    <td>Применение VLM моделей на задаче генерации описания к изображению, применение OCR моделей на задаче распознавания текста на изображении</td>
+    <td>Применение VLM (Vision Language Models) моделей на задаче генерации описания к изображению, применение OCR (Optical Character Recognition) библиотек на задаче распознавания текста на изображении</td>
     <td><a href="https://colab.research.google.com/drive/1l_uU8m5IFeuFkfm08dXYN6LqDMVVgG8q"><img src="img/colab.svg" alt="Open In Colab"></a> </td>
   </tr>
   <tr>
