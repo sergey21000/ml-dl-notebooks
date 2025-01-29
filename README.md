@@ -294,7 +294,7 @@
   </tr>
   <tr>
     <td>Архитектура Трансформер</td>
-    <td>Разбор и реализация архитектуры трансформера и его обучение на задаче машинного перевода</td>
+    <td>Разбор и реализация архитектуры трансформера и его обучение на задачах машинного перевода и генерации текста</td>
     <td><a href="https://colab.research.google.com/drive/1P8duYQBtqULwr5hzAJ6gLkeuhda04NON"><img src="img/colab.svg" alt="Open In Colab"></a> </td>
   </tr>
   <tr>
