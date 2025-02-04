@@ -205,7 +205,7 @@
   </tr>
   <tr>
     <td>Кластеризация</td>
-    <td>Применение алгоритмов Kmeans, DBSCAN, HDBSCAN на примере двух задач: кластеризация клиентов супермаркета и кластеризации отзывов на товары интернет-магазина</td>
+    <td>Применение алгоритмов Kmeans, DBSCAN, HDBSCAN на примере двух задач: кластеризация клиентов супермаркета и кластеризация отзывов на товары интернет-магазина</td>
     <td><a href="https://colab.research.google.com/drive/16gc5w4BR1FVgDbJYQp2lAputEH4terOS"><img src="img/colab.svg" alt="Open In Colab"></a> </td>
   </tr>
   <tr>
