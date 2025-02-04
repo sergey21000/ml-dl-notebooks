@@ -204,6 +204,11 @@
     <td><a href="https://colab.research.google.com/drive/1PBGRWZVDPtaEktsqQPuu-vnjubLPzAGP"><img src="img/colab.svg" alt="Open In Colab"></a> </td>
   </tr>
   <tr>
+    <td>Кластеризация</td>
+    <td>Применение алгоритмов Kmeans, DBSCAN, HDBSCAN на примере двух задач: кластеризация клиентов супермаркета и кластеризации отзывов на товары интернет-магазина</td>
+    <td><a href="https://colab.research.google.com/drive/16gc5w4BR1FVgDbJYQp2lAputEH4terOS"><img src="img/colab.svg" alt="Open In Colab"></a> </td>
+  </tr>
+  <tr>
     <td>Веб-приложение на Streamlit и Gradio</td>
     <td>Обучение моделей для решения задачи классификации по предсказанию вероятности диабета.<br>Написание web-приложений на фреймворках Streamlit и Gradio.<br>Деплой приложений на платформу Hugging Face</td>
     <td><a href="https://colab.research.google.com/drive/1Ou2-INIaLD4OoFOgmGIx3S5yMro3NPGs"><img src="img/colab.svg" alt="Open In Colab"></a> </td>
