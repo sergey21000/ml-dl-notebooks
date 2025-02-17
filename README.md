@@ -338,6 +338,11 @@
     <td><a href="https://colab.research.google.com/drive/1P5wx4t_wVeRnZ5HBXZuj9Iczbj5N233v"><img src="img/colab.svg" alt="Open In Colab"></a> </td>
   </tr>
   <tr>
+    <td>Semantic Text Vector Search</td>
+    <td>Векторизация и поиск похожих текстов через TF-IDF, BM25, Word2Vec, Doc2Vec, FastText, эмбединги (Bi-Encoder) на примере датасета описаний товаров с маркетплейса<br>Поиск похожих текстов через алгоритм ANN с векторизацией через эмбединги, TF-IDF, BM25, Word2Vec, Doc2Vec, FastText<br>Кластеризация эмбедингов текстов и поиск похожих текстов с учетом предсказанного кластера<br>Ранжирование текстов через модели Cross-Encoder<br>Создание векторной БД через библиотеку Milvus, поиск похожих текстов через эмбединги, гибридный поиск через TF-IDF / эмбединги<br>Вычисление похожести между текстами, между картинками и текстами и между картинками через мультимодальные энкодеры</td>
+    <td><a href="https://colab.research.google.com/drive/1T0I2nDsYXEZUZlR_9W6eaLAkorJSsMTy"><img src="img/colab.svg" alt="Open In Colab"></a> </td>
+  </tr>
+  <tr>
     <td>RAG Gradio Chatbot</td>
     <td>Как работает механизм RAG, его реализации вручную и с ипользованием библиотеки Langchain, обзор библиотеки Langchain.<br>Написание web-приложения чат-бота с механизмом RAG на фреймворке Gradio + Docker</td>
     <td><a href="https://colab.research.google.com/drive/1P7L41fkhh06-NKRZxNTIo2z_pWPJ4Yth"><img src="img/colab.svg" alt="Open In Colab"></a> </td>
