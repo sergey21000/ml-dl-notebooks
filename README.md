@@ -309,7 +309,7 @@
   </tr>
   <tr>
     <td>Классификация текстов</td>
-    <td>Пример препроцессинга и классификации текстов спортивных новостей на 4 класса при помощи моделей и методов:<br>TF-IDF + LogisticRegression и CatBoost<br>Embeddings + Полносвязная сеть (FCN)<br>Embeddings + Рекуррентная сеть (RNN)<br>Embeddings + Рекуррентная сеть c механизмом внимания (RNN With Attention)<br>Embeddings + Сверточная сеть (CNN)<br>Word2Vec + Рекуррентная сеть (RNN)</td>
+    <td>Пример препроцессинга и классификации текстов спортивных новостей на 4 класса при помощи моделей и методов:<br>TF-IDF + LogisticRegression и CatBoost<br>Pretrained Embeddings + LogisticRegression и CatBoost<br>Embeddings + Полносвязная сеть (FCN)<br>Embeddings + Рекуррентная сеть (RNN)<br>Embeddings + Рекуррентная сеть c механизмом внимания (RNN With Attention)<br>Embeddings + Сверточная сеть (CNN)<br>Word2Vec + Рекуррентная сеть (RNN)</td>
     <td><a href="https://colab.research.google.com/drive/1OuoSYfpfoQM4xmw4j0sMq0Xz-LmJ4N8w"><img src="img/colab.svg" alt="Open In Colab"></a> </td>
   </tr>
   <tr>
