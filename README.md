@@ -209,6 +209,11 @@
     <td><a href="https://colab.research.google.com/drive/16gc5w4BR1FVgDbJYQp2lAputEH4terOS"><img src="img/colab.svg" alt="Open In Colab"></a> </td>
   </tr>
   <tr>
+    <td>Классификация сообщений в Telegram (через кластеризацию)</td>
+    <td>Векторизация сообщений моделями-энкодерами из HuggingFace<br>Понижение размерности векторов алгоритмами PCA, UMAP<br>Кластеризация векторов алгоритмами KMeans, DBSCAN, HDBSCAN, OPTICS, BRIRCH<br>Генерация классов для каждого кластера через LLM (библиотеки transformers, llama-cpp, llama-cpp-python)<br></td>
+    <td><a href="https://colab.research.google.com/drive/16NXuzz0t7goCVEAx5jjKNci9AUHK-b7Y"><img src="img/colab.svg" alt="Open In Colab"></a> </td>
+  </tr>
+  <tr>
     <td>Веб-приложение на Streamlit и Gradio</td>
     <td>Обучение моделей для решения задачи классификации по предсказанию вероятности диабета.<br>Написание web-приложений на фреймворках Streamlit и Gradio.<br>Деплой приложений на платформу Hugging Face</td>
     <td><a href="https://colab.research.google.com/drive/1Ou2-INIaLD4OoFOgmGIx3S5yMro3NPGs"><img src="img/colab.svg" alt="Open In Colab"></a> </td>
