@@ -289,8 +289,8 @@
   </tr>
   <tr>
     <td>Stable Diffusion</td>
-    <td>Примеры инференса модели Stable Diffusion, краткий обзор основных компонент Stable Diffusion и пошаговый пример генерации изображения с их использованием</td>
-    <td><a href="hhttps://colab.research.google.com/drive/1PC0Fpn8rO_Ll9bXvo6iCV4VeAf1amarA"><img src="img/colab.svg" alt="Open In Colab"></a> </td>
+    <td>Примеры инференса модели Stable Diffusion, краткий обзор основных компонент Stable Diffusion и пошаговый пример генерации изображения с их использованием, примеры использования моделей CLIP, SigLIP</td>
+    <td><a href="https://colab.research.google.com/drive/1PC0Fpn8rO_Ll9bXvo6iCV4VeAf1amarA"><img src="img/colab.svg" alt="Open In Colab"></a> </td>
   </tr>
   <tr>
     <td>Рекуррентные сети</td>
