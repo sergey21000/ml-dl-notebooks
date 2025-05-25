@@ -304,7 +304,7 @@
   </tr>
   <tr>
     <td>Архитектура Трансформер</td>
-    <td>Разбор и реализация архитектуры трансформера и его обучение на задачах машинного перевода и генерации текста</td>
+    <td>Разбор и реализация архитектуры трансформера и его обучение на задаче машинного перевода</td>
     <td><a href="https://colab.research.google.com/drive/1P8duYQBtqULwr5hzAJ6gLkeuhda04NON"><img src="img/colab.svg" alt="Open In Colab"></a> </td>
   </tr>
   <tr>
@@ -325,7 +325,7 @@
   <tr>
     <td>LLM Fine-Tuning, LoRA</td>
     <td>Пример дообучения языковой модели с платформы Hugging Face на датасете вопросов и ответов с медицинских форумов с применением квантования из библиотеки bitsandbytes и метода LoRA (QLoRA)</td>
-    <td><a href="https://colab.research.google.com/drive/1HyEbKxgoL8DsgHlmZa8cJleCbK-bjjVr"><img src="img/colab.svg" alt="Open In Colab"></a> </td>
+    <td><a href="https://colab.research.google.com/drive/1OzQ9tNzBQPaSFaYaPGV9ocvEgisOTx9S"><img src="img/colab.svg" alt="Open In Colab"></a> </td>
   </tr>
   <tr>
     <td>LLM Fine-Tuning Qwen2.5, LoRA</td>
@@ -343,7 +343,7 @@
     <td><a href="https://colab.research.google.com/drive/1P5wx4t_wVeRnZ5HBXZuj9Iczbj5N233v"><img src="img/colab.svg" alt="Open In Colab"></a> </td>
   </tr>
   <tr>
-    <td>Semantic Text Vector Search</td>
+    <td>Semantic Text Image Vector Search</td>
     <td>Векторизация и поиск похожих текстов через TF-IDF, BM25, Word2Vec, Doc2Vec, FastText, эмбединги (Bi-Encoder) на примере датасета описаний товаров с маркетплейса<br>Поиск похожих текстов через алгоритм ANN с векторизацией через эмбединги, TF-IDF, BM25, Word2Vec, Doc2Vec, FastText<br>Кластеризация эмбедингов текстов и поиск похожих текстов с учетом предсказанного кластера<br>Ранжирование текстов через модели Cross-Encoder<br>Создание векторной БД через библиотеку Milvus, поиск похожих текстов через эмбединги и через гибридный поиск (TF-IDF / эмбединги)<br>Вычисление похожести между текстами, между картинками и текстами и между картинками через мультимодальные энкодеры</td>
     <td><a href="https://colab.research.google.com/drive/1T0I2nDsYXEZUZlR_9W6eaLAkorJSsMTy"><img src="img/colab.svg" alt="Open In Colab"></a> </td>
   </tr>
@@ -404,8 +404,13 @@
     <td><a href="https://colab.research.google.com/drive/1PDF_eCz9ViVDMz3JGPfiCu3xuGGeRT7T"><img src="img/colab.svg" alt="Open In Colab"></a> </td>
   </tr>
   <tr>
+    <td>OCR, OpenCV</td>
+    <td>Применение OCR (Optical Character Recognition) библиотек на задаче распознавания текста на изображении<br>Детекция номеров авто с помощью библиотеки OpenCV через каскады Хаара и детектор Canny<br>Написание веб-приложения для детекции номеров авто на фреймворке Gradio + контейнеризация через Docker</td>
+    <td><a href="https://colab.research.google.com/drive/1WWwCbmluFS98VSS3AuKV8rtulNhkRXqF"><img src="img/colab.svg" alt="Open In Colab"></a> </td>
+  </tr>
+  <tr>
     <td>VLM, OCR</td>
-    <td>Применение VLM (Vision Language Models) моделей на задаче генерации описания к изображению, применение OCR (Optical Character Recognition) библиотек на задаче распознавания текста на изображении</td>
+    <td>Применение VLM (Vision Language Models) моделей на задаче генерации описания к изображению и задаче распознавания символов (OCR - Optical Character Recognition)</td>
     <td><a href="https://colab.research.google.com/drive/1l_uU8m5IFeuFkfm08dXYN6LqDMVVgG8q"><img src="img/colab.svg" alt="Open In Colab"></a> </td>
   </tr>
   <tr>
@@ -430,4 +435,3 @@
   </tr>
   
 </table>
-
