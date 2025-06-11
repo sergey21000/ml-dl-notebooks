@@ -258,8 +258,8 @@
     <td><a href="https://colab.research.google.com/drive/1P1evU0ESvVgihaiQ9PGzRiKBKhRO33NP"><img src="img/colab.svg" alt="Open In Colab"></a> </td>
   </tr>
   <tr>
-    <td>Батч нормализация, дропаут</td>
-    <td>Методы увеличения размерности тензоров, слои нормализации тензоров (BatchNorm, LayerNorm, InstanceNorm, GroupNorm, RMSNorm), слои Dropout, пример обучения моделей и сравнения графиков обучения</td>
+    <td>Upscaling, Batch normalization, Dropout</td>
+    <td>Методы увеличения размерности тензоров (Unpooling, ConvTranspose, Upsample), интерполяция, слои нормализации тензоров (BatchNorm, LayerNorm, InstanceNorm, GroupNorm, RMSNorm), слои Dropout, пример обучения моделей и сравнения графиков обучения</td>
     <td><a href="https://colab.research.google.com/drive/1PAZsGrWJH8LASXdfF2n_Y37F6KTXVv-s"><img src="img/colab.svg" alt="Open In Colab"></a> </td>
   </tr>
   <tr>
