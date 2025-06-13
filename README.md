@@ -285,7 +285,7 @@
   <tr>
     <td>Автокодировщики, VAE, CVAE, VQVAE</td>
     <td>Реализация автокодировщика с архитектурами VAE, CVAE, VQVAE, обучение автокодировщика для задачи восстановления и удаления шума с изображений, визуализация скрытого пространства энкодера</td>
-    <td><a href="https://colab.research.google.com/drive/1dIJ97N0MUZ652dvyc_xd8RXPAk3Usat"><img src="img/colab.svg" alt="Open In Colab"></a> </td>
+    <td><a href="https://colab.research.google.com/drive/1dIJ97N0MUZ652dvyc_xd8RXPAk3Usat-"><img src="img/colab.svg" alt="Open In Colab"></a> </td>
   </tr>
   <tr>
     <td>Генеративно - Состязательные сети (GAN)</td>
