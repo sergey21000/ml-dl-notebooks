@@ -278,9 +278,14 @@
     <td><a href="https://colab.research.google.com/drive/1P-1eqTgYSYH1tJ7YaO0K_jOzujkcR3hd"><img src="img/colab.svg" alt="Open In Colab"></a> </td>
   </tr>
   <tr>
-    <td>Автокодировщики</td>
-    <td>Устройство и обучение автокодировщиков (автоэнкодеров) с архитектурами AE, VAE, CVAE для удаления шума с изображений, а так же визуализация скрытого пространства</td>
+    <td>Автокодировщики, AE</td>
+    <td>Реализация автокодировщика с линейными и сверточнывми слоями, обучение автокодировщика для задачи восстановления и удаления шума с изображений, визуализация скрытого пространства энкодеров</td>
     <td><a href="https://colab.research.google.com/drive/1PAZLcfbbx8gec3RBXKEL-eE4z37E2uBD"><img src="img/colab.svg" alt="Open In Colab"></a> </td>
+  </tr>
+  <tr>
+    <td>Автокодировщики, VAE, CVAE, VQVAE</td>
+    <td>Реализация автокодировщика с архитектурами VAE, CVAE, VQVAE, обучение автокодировщика для задачи восстановления и удаления шума с изображений, визуализация скрытого пространства энкодера</td>
+    <td><a href="https://colab.research.google.com/drive/1dIJ97N0MUZ652dvyc_xd8RXPAk3Usat"><img src="img/colab.svg" alt="Open In Colab"></a> </td>
   </tr>
   <tr>
     <td>Генеративно - Состязательные сети (GAN)</td>
