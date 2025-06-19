@@ -67,7 +67,7 @@
   </tr>
   <tr>
     <td>Web scraping, парсинг</td>
-    <td>Примеры парсинга сайтов с помощью библиотек BeautifulSoup и Selenium</td>
+    <td>Как получать актуальные данные для обучения моделей, парсинг сайтов с помощью библиотек BeautifulSoup и Selenium, получение данных через API и стронние библиотеки на примере Yfinance</td>
     <td><a href="https://colab.research.google.com/drive/1PD9d35NDmhliOBgp1CkYrCxIIgrk3ha0"><img src="img/colab.svg" alt="Open In Colab"></a> </td>
   </tr>
   <tr>
