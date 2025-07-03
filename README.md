@@ -384,8 +384,7 @@
   </tr>
   <tr>
     <td>YOLO NAS SAHI</td>
-    <td>Разбор ноутбука со следующими темами:<br>YOLO NAS Super Gradients - библиотека для обнаружения объектов с SOTA моделями.<br>Deep Sort - Отслеживание одинаковых объектов на видео (трекинг).<br>YOLO SAHI - Обнаружение мелких объектов.
-</td>
+    <td>Разбор ноутбука со следующими темами:<br>YOLO NAS Super Gradients - библиотека для обнаружения объектов с SOTA моделями.<br>YOLO Multi-Object Tracking - Трекинг объектов на видео через библиотеку `ultralytics`<br>Deep Sort - Трекинг оъектов на видео через библиотеку `deep-sort-realtime`.<br>YOLO SAHI - Обнаружение мелких объектов.</td>
     <td><a href="https://colab.research.google.com/drive/1OyUbmukaM5J5vnDfk6rCjSiKEVt8qCCy"><img src="img/colab.svg" alt="Open In Colab"></a> </td>
   </tr>
   <tr>
