@@ -111,7 +111,7 @@
   </tr>
   <tr>
     <td>Docker Compose, LLM</td>
-    <td>Запуск библиотек для инференса LLM через Docker и Docker Compose, в том числе библиотек с веб-интерфейсами (Llama.cpp, Ollama, OpenWebUI, AnythingLLM), отправка API запросов в библиотеках llama.cpp и Ollama.<br>Установка двайверов NVIDIA + CUDA + Pytorch + Docker + NVIDIA Container Tollkit на арендованном сервере + деплой чат бота с веб-интерфейсом на основе образов Ollama и OpenWebUI через Docker Compose на облачный сервер</td>
+    <td>Запуск библиотек для инференса LLM, VLM через Docker и Docker Compose, в том числе библиотек с веб-интерфейсами (Llama.cpp, Ollama, OpenWebUI, AnythingLLM), отправка API запросов в библиотеках llama.cpp и Ollama.<br>Установка двайверов NVIDIA + CUDA + Pytorch + Docker + NVIDIA Container Tollkit на арендованном сервере + деплой чат бота с веб-интерфейсом на основе образов Ollama и OpenWebUI через Docker Compose на облачный сервер</td>
     <td><a href="https://colab.research.google.com/drive/1P3rB1s_bvUe7Zf3VE_IOTInH67N4i5b9"><img src="img/colab.svg" alt="Open In Colab"></a> </td>
   </tr>
 
@@ -434,7 +434,7 @@
   </tr>
   <tr>
     <td>Обучение с подкреплением</td>
-    <td>Примеры обучения моделей играть в игры из игровых сред библиотеки Gymnasium с помощью алгоритмов Q-learning, PPO</td>
+    <td>Обучение моделей играть в игры из игровых сред Gym библиотеки Gymnasium с помощью алгоритмов Q-learning, Policy Gradient, A2C, PPO</td>
     <td><a href="https://colab.research.google.com/drive/1P1IhwqcTM0zN3Pp_o8U5hReQntsCPe-e"><img src="img/colab.svg" alt="Open In Colab"></a> </td>
   </tr>
   
