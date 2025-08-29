@@ -216,7 +216,7 @@
   <tr>
     <td>Веб-приложение на Streamlit и Gradio</td>
     <td>Обучение моделей для решения задачи классификации по предсказанию вероятности диабета.<br>Написание web-приложений на фреймворках Streamlit и Gradio.<br>Деплой приложений на платформу Hugging Face</td>
-    <td><a href="https://colab.research.google.com/drive/1Ou2-INIaLD4OoFOgmGIx3S5yMro3NPGs"><img src="img/colab.svg" alt="Open In Colab"></a> </td>
+    <td><a href="https://colab.research.google.com/drive/12POLbWJk9bc_F2zaCh_sQsKozrwDpIEo"><img src="img/colab.svg" alt="Open In Colab"></a> </td>
   </tr>
 
 </table>
@@ -439,3 +439,4 @@
   </tr>
   
 </table>
+
