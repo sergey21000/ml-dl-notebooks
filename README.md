@@ -344,7 +344,7 @@
   </tr>
   <tr>
     <td>LLM Gradio Chatbot</td>
-    <td>Чат-бот на основе библиотеки llama-cpp-python и с веб-интерфейсом на фреймворке Gradio<br>Тестирование через PyTest и запросы через Gradio Client<br>GitHub Actions для тестирования бота, сборки и релиза Docker образа<br>Деплой бота на облачный сервер, подключение к нему сервера NGINX, аренда своего домена (сайта).<br>Получение SSL сертификата для работы сайта по протоколу HTTPS</td>
+    <td>Чат-бот на основе библиотеки llama-cpp-python и с веб-интерфейсом на фреймворке Gradio<br>Тестирование через PyTest и запросы через Gradio Client<br>GitHub Actions для автоматизации тестирования, деплоя, сборки и релиза Docker образа<br>Деплой чат-бота на облачный сервер, подключение к нему сервера NGINX, аренда своего домена (сайта).<br>Получение SSL сертификата для работы сайта по протоколу HTTPS</td>
     <td><a href="https://colab.research.google.com/drive/1P5wx4t_wVeRnZ5HBXZuj9Iczbj5N233v"><img src="img/colab.svg" alt="Open In Colab"></a> </td>
   </tr>
   <tr>
@@ -439,5 +439,6 @@
   </tr>
   
 </table>
+
 
 
