@@ -194,8 +194,8 @@
     <td><a href="https://colab.research.google.com/drive/1PCIZcd2wcneBKmg2OimrBws9tNieKNHX"><img src="img/colab.svg" alt="Open In Colab"></a> </td>
   </tr>
   <tr>
-    <td>Деревья решений</td>
-    <td>Примеры поиска гиперпараметров для обучения моделей при помощи GridSearchCV, RandomizedSearchCV, Optuna, оценка качества модели с помощью кросс-валидации, пошаговый разбор как работают деревья решений для задач классификации и регрессии</td>
+    <td>Деревья решений, подбор гиперпараметров, отбор и важность признаков, кросс-валидация</td>
+    <td>Подбор гиперпараметров для обучения моделей при помощи GridSearchCV, RandomizedSearchCV, Optuna, оценка значимости признаков (Feature importances), методы отбора признаков(SelectKBest, RFE, RFECV, LogisticRegression, корреляция), оценка качества модели с помощью кросс-валидации.<br>Пошаговый разбор как работают деревья решений для задач классификации и регрессии.</td>
     <td><a href="https://colab.research.google.com/drive/1PCMHVpdVB-vZaObp3DHGEl1w6FbZGCHd"><img src="img/colab.svg" alt="Open In Colab"></a> </td>
   </tr>
   <tr>
@@ -439,6 +439,7 @@
   </tr>
   
 </table>
+
 
 
 
