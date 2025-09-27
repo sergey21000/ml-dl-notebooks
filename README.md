@@ -435,7 +435,7 @@
   <tr>
     <td>Использование библиотек для TTS, STT</td>
     <td>Примеры кода по синтезу речи из текста (Text-to-Speech, TTS), распознавания текста из речи (Speech-to-Text, STT, ASR) и диаризации речи с помошью различных библиотек</td>
-    <td><a href=""><img src=https://colab.research.google.com/drive/1KEnUYrTtSkA5dQvQm30he_xntxZuw-Xx"img/colab.svg" alt="Open In Colab"></a> </td>
+    <td><a href="https://colab.research.google.com/drive/1KEnUYrTtSkA5dQvQm30he_xntxZuw-Xx"><img src="img/colab.svg" alt="Open In Colab"></a> </td>
   </tr>
   <tr>
     <td>Обучение с подкреплением</td>
@@ -444,3 +444,4 @@
   </tr>
   
 </table>
+
