@@ -338,9 +338,9 @@
     <td><a href="https://colab.research.google.com/drive/1HyEbKxgoL8DsgHlmZa8cJleCbK-bjjVr"><img src="img/colab.svg" alt="Open In Colab"></a> </td>
   </tr>
   <tr>
-    <td>LLM Gradio Chatbot, Telegram Bot</td>
-    <td>Написания чат-ботов на основе llama-cpp-python и transformers с web-интерфейсом на Gradio, создание докер контейнера для чат-бота, а так же написание Телеграм бота, который преобразет речь в текст (Speech-to-Text), генерирует ответ, и преобразует его обратно в речь(Text-to-Speech)</td>
-    <td><a href="https://colab.research.google.com/drive/1WoYWS0GNxUZvp0nWljwfMFwkm6GwiTzi"><img src="img/colab.svg" alt="Open In Colab"></a> </td>
+    <td>TTS STT Telegram Bot</td>
+    <td>Написание Telegram бота, который преобразет речь в текст (Speech-to-Text), генерирует ответ, и преобразует его обратно в речь(Text-to-Speech), разбор инференса компонентов бота</td>
+    <td><a href="https://colab.research.google.com/drive/1Dj-EkjfXAiQpdRWiYGAVXvGXGWIBuBIs"><img src="img/colab.svg" alt="Open In Colab"></a> </td>
   </tr>
   <tr>
     <td>LLM Gradio Chatbot</td>
@@ -444,3 +444,4 @@
   </tr>
   
 </table>
+
