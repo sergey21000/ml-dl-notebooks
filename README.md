@@ -1,7 +1,7 @@
 
 # Ноутбуки и ссылки на материалы по Python, машинному обучению и нейронным сетям
  
- <a href="https://drive.google.com/drive/folders/1Osoz0Q257b0QWkIlmLz3SiCVna5uawcG?usp=sharing" target="_blank">
+<a href="https://drive.google.com/drive/folders/1Osoz0Q257b0QWkIlmLz3SiCVna5uawcG?usp=sharing" target="_blank">
   <img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Google Drive" style="width: 150px"/>
 </a> Все ноутбуки на Google Drive <br>
 
@@ -216,7 +216,7 @@
   <tr>
     <td>Веб-приложение на Streamlit и Gradio</td>
     <td>Обучение моделей для решения задачи классификации по предсказанию вероятности диабета.<br>Написание web-приложений на фреймворках Streamlit и Gradio.<br>Деплой приложений на платформу Hugging Face</td>
-    <td><a href="https://colab.research.google.com/drive/12POLbWJk9bc_F2zaCh_sQsKozrwDpIEo"><img src="img/colab.svg" alt="Open In Colab"></a> </td>
+    <td><a href="https://colab.research.google.com/drive/1Ou2-INIaLD4OoFOgmGIx3S5yMro3NPGs"><img src="img/colab.svg" alt="Open In Colab"></a> </td>
   </tr>
 
 </table>
@@ -289,7 +289,7 @@
   </tr>
   <tr>
     <td>Генеративно - Состязательные сети (GAN)</td>
-    <td>Основные типы даннных и конструкции языка Python</td>
+    <td>Реализация и обучение DCGAN - GAN на основе сверточных сетей</td>
     <td><a href="https://colab.research.google.com/drive/1OtiaFAt2uuw2L9oW6k_mZXZYnGmZfaf9"><img src="img/colab.svg" alt="Open In Colab"></a> </td>
   </tr>
   <tr>
@@ -444,4 +444,3 @@
   </tr>
   
 </table>
-
