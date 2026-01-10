@@ -117,7 +117,7 @@
   <tr>
     <td>Docker Compose WebUI LLM Examples</td>
     <td>Примеры запуска библиотек для инференса LLM (vllm, llamacpp, ollama), а также MCP сервера в связке с веб-интерфейсами (OpenWebUI, AnythingLLM) через Docker Compose</td>
-    <td><a href="https://github.com/sergey21000/docker-compose-webui-llm-examples">sergey21000/docker-compose-webui-llm-examples</a> </td>
+    <td align="center"><a href="https://github.com/sergey21000/docker-compose-webui-llm-examples" style="text-align: center; display: inline-block;"><img src="img/github.svg" alt="GitHub" height="28"><br><small>GitHub</small></a> </td>
   </tr>
   
 </table>
