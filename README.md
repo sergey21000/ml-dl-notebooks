@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Google Drive" style="width: 150px"/>
 </a> Все ноутбуки на Google Drive <br>
 
-<a href="https://docs.google.com/spreadsheets/d/1ptqPEOh45RnbUfGsHXgzC2S7Zw4K_r6obsN447RAt3o/edit?usp=sharing" target="_blank">
+<a href="https://docs.google.com/spreadsheets/d/1SNaM1pgOOuw6wbkd4LFL0Nk0joJnzvrm/edit?usp=sharing&ouid=102916414988076363250&rtpof=true&sd=true" target="_blank">
   <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" alt="Google Sheets" style="width: 150px"/>
 </a> Таблица со ссылками на материалы по DS, ML, DL <br>
 
