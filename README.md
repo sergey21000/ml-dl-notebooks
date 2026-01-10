@@ -110,11 +110,16 @@
     <td><a href="https://colab.research.google.com/drive/1OyMejAirERaRJ11BKtmFKe7BMXfiqiBL"><img src="img/colab.svg" alt="Open In Colab"></a> </td>
   </tr>
   <tr>
-    <td>Docker Compose, LLM</td>
+    <td>Docker Compose, LLM, WebUIs</td>
     <td>Запуск библиотек для инференса LLM, VLM через Docker и Docker Compose, в том числе библиотек с веб-интерфейсами (Llama.cpp, Ollama, OpenWebUI, AnythingLLM), отправка API запросов в библиотеках llama.cpp и Ollama.<br>Установка двайверов NVIDIA + CUDA + Pytorch + Docker + NVIDIA Container Tollkit на арендованном сервере + деплой чат бота с веб-интерфейсом на основе образов Ollama и OpenWebUI через Docker Compose на облачный сервер</td>
     <td><a href="https://colab.research.google.com/drive/1P3rB1s_bvUe7Zf3VE_IOTInH67N4i5b9"><img src="img/colab.svg" alt="Open In Colab"></a> </td>
   </tr>
-
+  <tr>
+    <td>Docker Compose WebUI LLM Examples</td>
+    <td>Примеры запуска библиотек для инференса LLM (vllm, llamacpp, ollama), а также MCP сервера в связке с веб-интерфейсами (OpenWebUI, AnythingLLM) через Docker Compose</td>
+    <td><a href="https://github.com/sergey21000/docker-compose-webui-llm-examples">sergey21000/docker-compose-webui-llm-examples</a> </td>
+  </tr>
+  
 </table>
 
 
@@ -343,7 +348,7 @@
     <td><a href="https://colab.research.google.com/drive/1Dj-EkjfXAiQpdRWiYGAVXvGXGWIBuBIs"><img src="img/colab.svg" alt="Open In Colab"></a> </td>
   </tr>
   <tr>
-    <td>LLM Gradio Chatbot</td>
+    <td>LLM Gradio Chatbot, GitHub Actions CI/CD</td>
     <td>Чат-бот на основе библиотеки llama-cpp-python и с веб-интерфейсом на фреймворке Gradio<br>Тестирование через PyTest и запросы через Gradio Client<br>GitHub Actions для автоматизации тестирования, деплоя, сборки и релиза Docker образа<br>Деплой чат-бота на облачный сервер, подключение к нему сервера NGINX, аренда своего домена (сайта).<br>Получение SSL сертификата для работы сайта по протоколу HTTPS</td>
     <td><a href="https://colab.research.google.com/drive/1P5wx4t_wVeRnZ5HBXZuj9Iczbj5N233v"><img src="img/colab.svg" alt="Open In Colab"></a> </td>
   </tr>
