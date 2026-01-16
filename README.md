@@ -369,7 +369,7 @@
   </tr>
   <tr>
     <td>Обзор моделей YOLO</td>
-    <td>Примеры детекции объектов, детекции ключевых точек, сегментации на изображениях и видео с помощью моделей Detectron 2, R-CNN и YOLO (v5, v7, v11)</td>
+    <td>Примеры детекции объектов, детекции ключевых точек, сегментации на изображениях и видео с помощью моделей RF-DETR, Detectron 2, R-CNN и YOLO (v5, v7, v11)</td>
     <td><a href="https://colab.research.google.com/drive/1P9YVxXwt9k5-82ei1q2V46Vf42ZElunT"><img src="img/colab.svg" alt="Open In Colab"></a> </td>
   </tr>
   <tr>
