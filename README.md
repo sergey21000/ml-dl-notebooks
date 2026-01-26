@@ -116,7 +116,7 @@
   </tr>
   <tr>
     <td>Docker Compose WebUI LLM Examples</td>
-    <td>Примеры запуска библиотек для инференса LLM, VLM (vllm, llamacpp, ollama), а также MCP сервера в связке с веб-интерфейсами (OpenWebUI, AnythingLLM) через Docker Compose.<br>Использование Structured Outputs, Tool calling через Ollama. Сбор и визуализация метрик через Prometheus + Grafana</td>
+    <td>Примеры запуска библиотек для инференса LLM, VLM (vllm, llamacpp, ollama), а также MCP сервера в связке с веб-интерфейсами (OpenWebUI, AnythingLLM) через Docker Compose.<br>Использование Structured Outputs, Tool calling через Ollama.<br>Сбор и визуализация метрик через Prometheus + Grafana</td>
     <td align="center"><a href="https://github.com/sergey21000/docker-compose-webui-llm-examples" style="text-align: center; display: inline-block;"><img src="img/github.svg" alt="GitHub" height="28"><br><small>GitHub</small></a> </td>
   </tr>
   
@@ -359,7 +359,7 @@
   </tr>
   <tr>
     <td>RAG Gradio Chatbot</td>
-    <td>Как работает механизм RAG, его реализации вручную и с ипользованием библиотеки Langchain, обзор библиотеки Langchain.<br>Написание web-приложения чат-бота с механизмом RAG на фреймворке Gradio + Docker</td>
+    <td>Как работает механизм RAG, его реализации вручную и с ипользованием библиотеки Langchain, обзор библиотеки Langchain.<br>Обзор библиотеки Embedchain<br>Написание web-приложения чат-бота с механизмом RAG на Gradio + llama.cpp</td>
     <td><a href="https://colab.research.google.com/drive/1P7L41fkhh06-NKRZxNTIo2z_pWPJ4Yth"><img src="img/colab.svg" alt="Open In Colab"></a> </td>
   </tr>
   <tr>
