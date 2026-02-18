@@ -363,6 +363,11 @@
     <td><a href="https://colab.research.google.com/drive/1P7L41fkhh06-NKRZxNTIo2z_pWPJ4Yth"><img src="img/colab.svg" alt="Open In Colab"></a> </td>
   </tr>
   <tr>
+    <td>Agents</td>
+    <td>Примеры написания агентов и обзор библиотек для создания агентных систем: Smolagents, Pydantic-AI, Agno</td>
+    <td><a href="https://colab.research.google.com/drive/1LTuELNhAJp7cRzVFW9rM4pyQDLDVzD0b"><img src="img/colab.svg" alt="Open In Colab"></a> </td>
+  </tr>
+  <tr>
     <td>Метрики задачи детекции объектов</td>
     <td>Основные метрики для задачи детекции объектов и пример дообучения модели Faster-R-CNN</td>
     <td><a href="https://colab.research.google.com/drive/1PATtJSvDcBQPWUbxOHUOBs7caAdozW57"><img src="img/colab.svg" alt="Open In Colab"></a> </td>
